@@ -1,2 +1,2 @@
 # business
-basic functions in a java
+basic functions in a java web project
